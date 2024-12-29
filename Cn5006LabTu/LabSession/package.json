@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mngo": "^0.6.3",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.9.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "Student1":{
+    "name":"Daniyal",
+    "Age":"33",
+    "Qualification":"BSc",
+    "Email":"wontgiveyou@gmail.com"
+},
+"Studnet2":{
+    "name":"Jenny",
+    "Age":"32",
+    "Qualification":"Msc",
+    "Email":"jenmsdf@gmail.com"
+},
+"Student3":{
+    "name":"Emily",
+    "Age":"09",
+    "Qualification":"P.hd",
+    "Email":"whatyougonnado@gmail.com"
+}
+}
